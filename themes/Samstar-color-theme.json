@@ -2,25 +2,33 @@
   "name": "Samstar",
   "type": "dark",
   "colors": {
-    "editor.background": "#2f313128",
+    "editor.background": "#2f313128", //2f313128 2c1f3683 1c132528
     "editor.foreground": "#d4d4d4",
+    "selection.background": "#ff0000",
+    "editorLineNumber.foreground": "#007acc",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb",
-    "statusBar.background": "#2f313128",
+    "sideBarTitle.foreground": "#2f313128",
+    "statusBar.background": "#00000028",
     "sideBar.background": "#2f313128",
     "activityBar.background": "#472c2c65", //64347765
     "editorGroupHeader.tabsBorder": "#4e1f5a",
-    "editorGroupHeader.tabsBackground": "#64347765",
+    "editorGroupHeader.tabsBackground": "#2f313128", //64347765
+    "editorGroupHeader.noTabsBackground": "#2f313128",
+    "editorGroup.background": "#2f313128",
     "terminal.background": "#a0272728",
-    "terminalCursor.foreground": "#ff0000",
-    "terminal.foreground": "#FF5370",
+    "terminalCursor.foreground": "#2f313128",
+    "terminal.foreground": "#2f313128",
     "terminal.selectionBackground": "#2f313128",
-    "terminalCursor.background": "#ff0000",
-    "walkThrough.embeddedEditorBackground": "#ff0000",
-    "terminal.border": "#280ebe"
+    "terminalCursor.background": "#2f313128",
+    "walkThrough.embeddedEditorBackground": "#2f313128",
+    "terminal.border": "#2f313128",
+    "panel.background": "#2f313128",
+    "list.focusBackground": "#2f2f31",
+    "list.focusForeground": "#ff0095",
+    "list.inactiveFocusBackground": "#ff0000",
+    "tab.inactiveBackground": "#2f313128",
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "settings": {
         "foreground": "#eeffffff",
         "background": "#263238ff"
