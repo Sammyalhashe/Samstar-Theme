@@ -9,7 +9,7 @@
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#2f313128",
     "statusBar.background": "#00000028",
-    "sideBar.background": "#2f313128",
+    "sideBar.background": "#2f3131",
     "activityBar.background": "#472c2c65", //64347765
     "editorGroupHeader.tabsBorder": "#4e1f5a",
     "editorGroupHeader.tabsBackground": "#2f313128", //64347765
@@ -26,9 +26,10 @@
     "list.focusBackground": "#2f2f31",
     "list.focusForeground": "#ff0095",
     "list.inactiveFocusBackground": "#ff0000",
-    "tab.inactiveBackground": "#2f313128",
+    "tab.inactiveBackground": "#2f313128"
   },
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "settings": {
         "foreground": "#eeffffff",
         "background": "#263238ff"
